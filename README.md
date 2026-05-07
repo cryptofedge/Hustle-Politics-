@@ -1,4 +1,4 @@
-# Repository
+﻿# Repository
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### FEDGE 2.O | Powered by Rafael Fellito Rodriguez and Eclat Universe
 
-**© 2026 FEDGE 2.O. All rights reserved.**
+**┬⌐ 2026 FEDGE 2.O. All rights reserved.**
 
 This project is part of the FEDGE 2.O ecosystem and is protected under full intellectual property rights reserved by Rafael Fellito Rodriguez and Eclat Universe.
 
@@ -21,11 +21,11 @@ This project is part of the FEDGE 2.O ecosystem and is protected under full inte
 
 ### Key Rights
 
-✓ **All intellectual property retained**
-✓ **Reproduction prohibited without permission**
-✓ **Distribution rights reserved**
-✓ **Derivative works not permitted**
-✓ **Commercial use requires authorization**
+Γ£ô **All intellectual property retained**
+Γ£ô **Reproduction prohibited without permission**
+Γ£ô **Distribution rights reserved**
+Γ£ô **Derivative works not permitted**
+Γ£ô **Commercial use requires authorization**
 
 ### Attribution
 
