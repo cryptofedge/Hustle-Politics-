@@ -1,4 +1,4 @@
-﻿# FEDGE 2.O - Hustle & Politics
+﻿﻿# FEDGE 2.O - Hustle & Politics
 > From the block to the boardroom. From the streets to the senate.
 > Built under the Eclat Universe brand.
 Hustle & Politics is a strategy game at the intersection of street hustle, entrepreneurship, and political power. You start with nothing and build everything - flipping moves into businesses, businesses into influence, and influence into legacy. This is economic self-determination, gamified.
